@@ -1,0 +1,6 @@
+This is a sample 
+file for file 
+I/O in python 
+part 5
+Added new lines
+by write functionality
