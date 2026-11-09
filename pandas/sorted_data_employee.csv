@@ -1,0 +1,12 @@
+,id,name,age,country,gender,income,tax,new_income
+6,6,,45.0,India,F,73000.0,20%,80300.0
+7,7,Ahmed Khan,38.0,,M,68000.0,20%,74800.0
+4,4,Maria Garcia,34.0,Spain,F,,10%,
+10,10,Emily Davis,31.0,United States,,58000.0,10%,63800.00000000001
+0,1,John Doe,29.0,United States,M,55000.0,10%,60500.00000000001
+1,1,John Doe,29.0,United States,M,55000.0,10%,60500.00000000001
+8,8,Rachel Lee,29.0,United States,F,62000.0,20%,68200.0
+5,5,Li Wei,27.0,China,M,51000.0,10%,56100.00000000001
+2,2,Jane Smith,,Canada,F,62000.0,20%,68200.0
+3,3,Alex,,United States,U,47000.0,10%,51700.00000000001
+9,9,Carlos Ruiz,,Mexico,M,45000.0,10%,49500.00000000001
